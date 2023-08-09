@@ -4,7 +4,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <h1 align="center">Hi 👋, I'm Abhijith V A</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmic007&label=Profile%20views&color=0e75b6&style=flat" alt="cosmic007" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Java Core [SuperEase Market Manager](https://github.com/cosmic007/SuperEase-MarketManager)
 
-- 🌱 I’m currently learning **SpringBoot,Flutter**
+- 🌱 I’m currently learning **SpringBoot, Flutter**
 
 - 🤝 I’m looking for help with [Seedle Social Media Application](https://github.com/cosmic007/Seedle-Social-Media-App)
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/16018545689765611088](https://www.blogger.com/profile/16018545689765611088)
 
-- 💬 Ask me about **Java,Python,Android Developement**
+- 💬 Ask me about **Java, Python, Android Developement**
 
 - 📫 How to reach me **abhijithvaofficial@gmail.com**
 
